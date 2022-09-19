@@ -1,0 +1,8 @@
+Modelos a serem avaliados
+
+WRF_07: /oper/share/ioper/tempo/WRF/ams_07km/brutos/2022/08/
+Eta_08: /oper/share/ioper/tempo/Eta/ams_08km/brutos/2022/08/
+BRAMS_08: /oper/share/ioper/tempo/BRAMS/ams_08km/brutos/2022/08/
+BAM_20 Sigma: /oper/share/ioper/tempo/BAM/TQ0666L064/brutos/2022/08/
+BAM_20 Hibrido: /oper/share/ioper/tempo/BAM/TQ0666L064/brutos/hibrido/2022/08/
+
